@@ -1,0 +1,17 @@
+이벤트 핸들링 
+컨포넌트.add==== listener( ~~~이벤트가 발생되었을때 처리할 문장을 가지고 있는 클래스의 인스턴스  ) :
+컨퍼넌트에 감시자를 중복한다? 
+원하는 자리에 엔터면 액션, 클릭하고 움직이면 moved 윈도우 리스너가 있러 
+무슨 이벤트가 발생되는 지 = add listener
+엔터하는 행위 = 액션 
+
+
+
+
+___이벤트가 발생되었을때 인스턴스 가진 a만들기 
+class A answerBtnAction 
+or AnswerBtnActionHanding ref= new  AnswerBtnActionHanding <ref만 기입> 
+new ActionListener(){ 
+public voif actionPerformed(ActionEvent e){
+} 
+
